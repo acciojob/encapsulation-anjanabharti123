@@ -7,5 +7,6 @@ public class Main {
     obj.setName("Anjana");
     
     System.out.println(obj.getName());
+    
   }
 }
